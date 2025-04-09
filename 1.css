@@ -1,0 +1,95 @@
+.bg
+{
+}
+.bg1
+{
+	color: #ffffff;
+	font-size: 30px;
+}
+.navi a:link,.navi a:active,.navi a:visited
+{
+	/*color: #48d3ff;*/
+	color: #fff;
+	FONT-SIZE: 15px;
+	text-decoration: none;
+	font-family: sans-serif;
+	/*line-height: 25px;*/
+	LETTER-SPACING: normal;
+}
+.navi a:hover
+{
+	/*color: #48d3ff;*/
+	/*color: #fff;*/
+	color: #fff;
+	FONT-SIZE: 15px;
+	text-decoration: underline;
+	font-family: sans-serif;
+	/*line-height: 25px;*/
+	LETTER-SPACING: normal;
+}
+.navi a
+{
+}
+.act
+{
+  /*color: #fff;*/
+  /*color: #FFF;*/
+  color: yellow;
+  FONT-SIZE: 15px;
+  FONT-FAMILY: sans-serif;
+  LETTER-SPACING: normal;
+}
+/*.nav
+{
+	font-size: 18px;
+	color: #ffffff;
+}*/
+.chapter
+{
+	font-size: 12px;
+	font-family: sans-serif;
+	letter-spacing: normal;
+}
+.graf
+{
+	color:#ffffff;
+}
+html
+{
+	margin: 0; padding: 0;
+	/*background-image: url(file:///home/yuki/wall/zdanie_krysha_lestnitsa_1369225_2560x1600.jpg);*/
+	/*background-image: url(file:///home/yuki/wall/drakon_skala_art_167444_360x640.jpg);*/
+	background-color: #1a1a1a;
+	background-position: right top;
+	background-repeat: no-repeat;
+	font-family: sans-serif;
+	/*background-position: left top;*/
+	/*background-color: #1a1a1a;*/
+	/*color: #ffffff;*/
+}
+.chapter
+{
+	color: #ffffff;
+}
+.panel
+{
+	color: #000000;
+	/*background-image: url(file:///home/yuki/wall/siluet_drakon_illiuziia_152234_480x800.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;*/
+}
+.name
+{
+	/*background: linear-gradient(#48d3ff, #008aed);*/
+        background: linear-gradient(#008aed, #003aaa);
+}
+.panel a:active,.panel a:link,.panel a:visited
+{
+	color: #fff;
+	text-decoration: none;
+	LETTER-SPACING: normal;
+}
+.panel a:hover
+{
+	text-decoration: underline;
+}
