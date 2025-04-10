@@ -30,13 +30,24 @@
 .navi a
 {
 }
-.act
+.act a:link,.act a:active,.act a:visited
 {
   /*color: #fff;*/
   /*color: #FFF;*/
   color: yellow;
   FONT-SIZE: 15px;
   FONT-FAMILY: sans-serif;
+  text-decoration: none;
+  LETTER-SPACING: normal;
+}
+.act a:hover
+{
+  /*color: #fff;*/
+  /*color: #FFF;*/
+  color: yellow;
+  FONT-SIZE: 15px;
+  FONT-FAMILY: sans-serif;
+  text-decoration: none;
   LETTER-SPACING: normal;
 }
 /*.nav
