@@ -30,6 +30,15 @@
 .navi a
 {
 }
+.act
+{
+  /*color: #fff;*/
+  /*color: #FFF;*/
+  color: yellow;
+  FONT-SIZE: 15px;
+  FONT-FAMILY: sans-serif;
+  LETTER-SPACING: normal;
+}
 .act a:link,.act a:active,.act a:visited
 {
   /*color: #fff;*/
