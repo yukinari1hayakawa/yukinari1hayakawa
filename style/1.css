@@ -101,7 +101,7 @@ html
 .name
 {
 	/*background: linear-gradient(#48d3ff, #008aed);*/
-        background: linear-gradient(to right, blue, #008aed, #003aaa, #003aaa);
+        background: linear-gradient(to right, #003aaa, #003aaa, #008aed, #008aed, #003aaa);
 }
 .panel a:active,.panel a:link,.panel a:visited
 {
